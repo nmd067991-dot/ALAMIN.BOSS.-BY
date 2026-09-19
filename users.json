@@ -1,0 +1,32 @@
+{
+    "admin": {
+        "password": "6ef3c36018d642b7e9dbaf7e341cb406$a355a645387d865d836e88c8be7db1fea0f6e1653c93021cc0b3ae1866b98c5f",
+        "role": "admin"
+    },
+    "9511084176": {
+        "password": "d3eab77805074b853793e355dde793e6$10d294870594b8c792220f47fe6d7f8883c9bf0d0cd2dc38c4ad8221070f38c7",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "d97c1d81",
+                "link": "d97c1d81",
+                "login_url": "/d97c1d81/login",
+                "dashboard_url": "/d97c1d81/home",
+                "full_link": "http://127.0.0.1:5001/d97c1d81/home",
+                "type": "python",
+                "ram": "4GB",
+                "disk": "10GB",
+                "status": "running",
+                "pid": 32526,
+                "created": "2026-09-18 19:00:56.086258",
+                "expiry": "2027-09-18 19:00:56.011107",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 100,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false,
+                "started_at": "2026-09-18 19:01:55.664717"
+            }
+        ]
+    }
+}
